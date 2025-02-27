@@ -21,18 +21,14 @@ This Privacy Policy describes how **NoMoreLinks**, our Discord bot, handles data
 
 We do not share any data collected by the bot with third parties. All logs are stored locally and are only used for the bot’s functionality.
 
-## 4. Security
+## 4. Tracking
 
-Our bot is hosted on an un-portforwarded AWS server. We take necessary precautions to secure this server, but we do not store personal or sensitive data on it.
+No tracking technologies are used by the bot to collect information from users.
 
-## 5. Cookies and Tracking
-
-No cookies or tracking technologies are used by the bot to collect information from users.
-
-## 6. User Rights
+## 5. User Rights
 
 Since **NoMoreLinks** does not store personal data, there is no personal information to modify or delete. We do not retain any information that would allow us to identify users individually.
 
-## 7. Changes to This Privacy Policy
+## 6. Changes to This Privacy Policy
 
 This Privacy Policy may be updated from time to time. However, we do not plan to notify users of any changes. By continuing to use the bot, you accept the updated Privacy Policy.
