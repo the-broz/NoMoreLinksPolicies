@@ -1,6 +1,6 @@
 # Privacy Policy
-
-This Privacy Policy describes how **NoMoreLinks**, our Discord bot, handles data and user privacy. By using the bot, you agree to the practices described below. To make it clear and simple. **We do not store any information related to you and cannot be pointed back to you. Only generic logging info of errors that occur are stored in a temporary log.**
+Last updated: March 27, 2025
+This Privacy Policy describes how **NoMoreLinks**, our Discord bot, handles data and user privacy. By using the bot, you agree to the practices described below. To make it clear and simple. **We do not store any information related to you and cannot be pointed back to you. Only generic logging info of errors that occur are stored in a temporary log. In relation to logging the bot now stores logs of errors called rays. Rays can be used as a quick and easy way to diagnose and report errors. Rays are deleted after 14 days after creation.**
 
 ## 1. Data Collection
 
@@ -17,6 +17,7 @@ This Privacy Policy describes how **NoMoreLinks**, our Discord bot, handles data
 - Diagnostic error logs are kept only for as long as needed to troubleshooting.
 - No user info or data is kept in these logs beyond the URL of the video you requested and a stack trace of the error.
 - We do not retain any data beyond what is needed for immediate troubleshooting.
+- Rays are stored with stack traces and the url of the media you sent and the ray's id, no personal data is stored along with a ray.
 
 ## 3. Tracking
 
