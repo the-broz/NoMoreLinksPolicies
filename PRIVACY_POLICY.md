@@ -1,28 +1,71 @@
 # Privacy Policy
-Last updated: March 27, 2025
-This Privacy Policy describes how **NoMoreLinks**, our Discord bot, handles data and user privacy. By using the bot, you agree to the practices described below. To make it clear and simple. **We do not store any information related to you and cannot be pointed back to you. Only generic logging info of errors that occur are stored in a temporary log. In relation to logging the bot now stores logs of errors called rays. Rays can be used as a quick and easy way to diagnose and report errors. Rays are deleted after 14 days after creation.**
+**Last updated: July 30, 2025**
 
-## 1. Data Collection
+This Privacy Policy explains how **NoMoreLinks**, our Discord bot, handles data and user privacy. By using the bot, you agree to the practices described below.
 
-**NoMoreLinks** does not collect any personal data from users. We only collect diagnostic error logs when requests fail, which are used to troubleshoot and improve the bot's performance.
+---
 
-### Error Logs
-- We store error logs on the instance where the bot is hosted.
-- These logs are cleared when the bot instance is restarted.
-- The logs are strictly used for troubleshooting purposes to ensure the bot's continued functionality.
+## 1. Overview
 
-## 2. Data Storage and Retention
+NoMoreLinks is a privacy-respecting Discord bot. We do **not collect personal data**, and we are committed to transparency in how we handle data for diagnostics and usage analytics.
 
-- No personal data or guild information is stored by the bot.
-- Diagnostic error logs are kept only for as long as needed to troubleshooting.
-- No user info or data is kept in these logs beyond the URL of the video you requested and a stack trace of the error.
-- We do not retain any data beyond what is needed for immediate troubleshooting.
-- Rays are stored with stack traces and the url of the media you sent and the ray's id, no personal data is stored along with a ray.
+---
 
-## 3. Tracking
+## 2. What We Collect
 
-No tracking technologies are used by the bot to collect information from users.
+We collect **minimal, non-identifying data** strictly for diagnostic and operational purposes.
 
-## 4. Changes to This Privacy Policy
+### A. Diagnostic Logs ("Rays")
+- Created **only when errors occur**.
+- Contain:
+  - The media URL that caused the error
+  - A stack trace for debugging
+  - A generated **ray ID**
+- **Do not include personal data** (no usernames, IDs, IPs, or messages).
+- **Deleted automatically after 14 days** or when the bot restarts.
 
-This Privacy Policy may be updated from time to time. However, we do not plan to notify users of any changes. By continuing to use the bot, you accept the updated Privacy Policy.
+### B. Usage Analytics
+To monitor performance and demand, we collect limited metadata:
+- Discord **User ID** (internal identifier)
+- Discord **Guild ID** (if used in a server)
+- **Command name**
+- **Timestamp** of the request
+
+This helps us understand usage patterns (e.g., busiest hours, most used features). We do not log command inputs like message content or URLs.
+
+---
+
+## 3. Data Storage and Retention
+
+- **No personal data or message content** is stored.
+- **Error logs (Rays)** are temporary and purged after 14 days.
+- **Analytics data** is used only for aggregate insights and performance metrics.
+- All logs are stored on the bot’s private server and never shared with third parties.
+
+---
+
+## 4. Tracking and Third-Party Sharing
+
+- We do **not** use cookies, tracking pixels, or fingerprinting.
+- We do **not** share logs or analytics with any third parties.
+- All data remains within our infrastructure for the sole purpose of improving the bot.
+
+---
+
+## 5. Your Rights and Control
+
+If you would to opt out of anayltics you may do so by using the command ``/optout``. You can opt back in by running it again.
+You may stop using the bot at any time to terminate your interaction with it.
+
+---
+
+## 6. Changes to This Policy
+
+This policy may be updated occasionally. We will not send notifications for changes.
+By continuing to use NoMoreLinks, you agree to the latest version of this policy.
+
+---
+
+## 7. Contact
+
+For privacy-related concerns or questions, contact the developer through the support link provided in the bot’s `/about` command or bot profile.
