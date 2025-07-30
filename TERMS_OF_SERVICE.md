@@ -1,4 +1,6 @@
 # TERMS OF SERVICE
+**The short of it: Use NoMoreLinks in a responsible way, don't infringe on others rights, NoMoreLinks and its developer do not claim any libility that comes from users' use of the service. Think of NoMoreLinks like a fancy proxy**
+
 Below are the terms that govern your use of our services.
 
 - "Application": The services provided by "NoMoreLinks."
